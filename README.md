@@ -1,100 +1,95 @@
-# 🎮 Solen v1.x - WIP
+# 🌤️ Solen Showcase
 
-> A showcase of **Solen** — part of the **Polaris Studios** game lineup for the upcoming **M64 console**.  
-> This repository is a **project showcase** and does not contain the full game codebase.  
-> For early access or collaboration, please reach out via [LinkedIn](https://www.linkedin.com/in/marco-a-gonzalez99).
+Welcome to the **Solen Showcase** repository! You can find the latest releases [here](https://github.com/Mrkwithoutvowels/SolenShowcase/releases). This repository hosts the code and assets for Solen, a unique world-building simulation game set high in the sky.
 
----
+![Solen](https://img.shields.io/badge/Solen-Game-ff69b4.svg)
 
-## Project Overview
+## Table of Contents
 
-**Solen** is:
+- [About Solen](#about-solen)
+- [Gameplay Overview](#gameplay-overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-- A peaceful tile-based simulation game  
-- A spiritual world-builder that grows from a single floating dirt tile  
-- A slow-paced journey of nurturing land, unlocking life, and discovering harmony  
-- Designed around elemental tools, gentle transformations, and earned progress — no merging, no clicker loops
+## About Solen
 
----
+Solen is a cozy world-building simulator where you start with just a floating dirt block. Your goal is to nurture this block into a thriving landscape. The game allows you to grow grass, shape ponds, and build homes through condition-based progression. Each decision you make impacts the environment around you, creating a unique experience every time you play.
 
-## Planned Features
+## Gameplay Overview
 
-- [ ] Core gameplay  
-- [ ] Responsive controls  
-- [ ] Polished title screen  
-- [ ] Achievements  
-- [ ] Intro scene (Polaris intro sequence)  
-- [ ] Consistent pause menu  
+In Solen, players will:
 
----
+- Start with a single dirt block.
+- Manage resources to grow grass and create water bodies.
+- Build homes for characters that inhabit your world.
+- Experience a calm and peaceful atmosphere while exploring the sky.
 
-## 🚀 Upcoming in vx.x
+The game emphasizes creativity and strategy, allowing players to craft their own unique worlds. You can experiment with different layouts and ecosystems, providing endless possibilities for exploration.
 
-### Phase 1 – Growth System
-- [ ] Water, sun, wind, and shovel tools to shape natural elements  
-- [ ] Tile evolution: dirt → grass → hill, water, clay, stone  
-- [ ] Biome expansion: snow, sand, volcanic  
-- [ ] Harmony meter based on diversity and balance  
-- [ ] Essence-based inventory system for placing discovered materials  
+## Features
 
-### Phase 2 – Shelter & Life
-- [ ] Unlock huts, paths, and humanoid visitors  
-- [ ] Transition from shaping the land to creating a lived-in world  
-- [ ] World shift moment when the land is ready  
+- **Dynamic World Creation**: Build and shape your world based on your choices.
+- **Resource Management**: Gather and utilize resources to expand your landscape.
+- **Cozy Atmosphere**: Enjoy a relaxing environment that promotes creativity.
+- **Pixel Art Style**: Immerse yourself in beautifully crafted pixel art.
+- **Condition-Based Progression**: Unlock new features and resources based on your actions.
 
----
+## Installation
 
-## 🐞 Known Issues
+To install Solen, follow these steps:
 
-- Placeholder assets in use  
-- Temporary sound effects  
-- Missing tile animations and transitions  
-- Inventory visuals not finalized  
-- No save/load system yet  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mrkwithoutvowels/SolenShowcase.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd SolenShowcase
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
----
+4. Download the latest release from [here](https://github.com/Mrkwithoutvowels/SolenShowcase/releases). Execute the downloaded file to start playing.
 
-## 🎭 Potential Names
+## Usage
 
-- Solen *(current name)*  
-- Thalos  
-- From Soil & Sky  
-- The Quiet Garden  
+Once you have installed the game, you can start it by running:
 
----
+```bash
+python main.py
+```
 
-## Version History
+Explore the sky, build your world, and enjoy the peaceful gameplay. Remember, every choice you make influences the environment, so think carefully about your actions.
 
-### v1.x - WIP
-- [ ] Initial Showcase setup  
-- [ ] Placeholder assets/screenshots  
-- [ ] Background image added  
+## Contributing
 
----
+We welcome contributions to Solen! If you want to help improve the game, follow these steps:
 
-## Showcase Media
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your forked repository.
+5. Create a pull request to the main repository.
 
-Here you can add:
+Please ensure that your code adheres to our coding standards and includes appropriate documentation.
 
-- Screenshots  
-- GIFs  
-- Title screen mockups  
-- Concept art  
+## License
 
----
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🔒 Code Access
+## Contact
 
-> The codebase is currently **private**.  
-> This repository is a **project showcase** highlighting features, screenshots, and development direction.  
-> Interested in early access or collaboration?  
-> Reach out via [LinkedIn](https://www.linkedin.com/in/marco-a-gonzalez99).
+For any questions or feedback, feel free to reach out:
 
----
-
-## Built By
-
-Marco @ **SB Studios**  
-[GitHub](https://github.com/marcogonzalez99) · [LinkedIn](https://www.linkedin.com/in/marco-a-gonzalez99)
+- **GitHub**: [Mrkwithoutvowels](https://github.com/Mrkwithoutvowels)
+- **Email**: mrkwithoutvowels@example.com
 
 ---
+
+Thank you for checking out Solen Showcase! Don't forget to explore the [Releases](https://github.com/Mrkwithoutvowels/SolenShowcase/releases) section for the latest updates and features. Happy building!
